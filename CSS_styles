@@ -1,0 +1,4 @@
+.h3 {
+  border-top: 5px black solid;
+  border-bottom: 1px black solid;
+}
