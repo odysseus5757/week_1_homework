@@ -1,4 +1,9 @@
-.h3 {
+h1 {
+  color: red;
   border-top: 5px black solid;
   border-bottom: 1px black solid;
+}
+
+.cowen {
+  color: blue;
 }
