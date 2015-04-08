@@ -1,4 +1,4 @@
-h1 {
+h4 {
   color: red;
   border-top: 5px black solid;
   border-bottom: 1px black solid;
@@ -6,4 +6,12 @@ h1 {
 
 .cowen {
   color: blue;
+}
+
+u {
+  text-decoration: underline;
+}
+
+i, em, cite {
+  font-style: italic;
 }
